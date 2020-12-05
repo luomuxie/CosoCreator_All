@@ -1,0 +1,207 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 120,
+      "y": 0,
+      "width": 1679,
+      "height": 1040,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 294.96875,
+                "type": "panel",
+                "width": 334
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets",
+                  "cloud-function"
+                ],
+                "height": 624.03125,
+                "type": "panel",
+                "width": 334
+              }
+            ],
+            "height": 922,
+            "type": "dock-v",
+            "width": 334
+          },
+          {
+            "active": 1,
+            "children": [
+              "inspector",
+              "hello-world"
+            ],
+            "height": 922,
+            "type": "panel",
+            "width": 391
+          },
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "scene"
+                ],
+                "height": 306.671875,
+                "type": "panel",
+                "width": 931.984375
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window",
+                  "ui-kit-preview",
+                  "ui-kit-preview-extra"
+                ],
+                "height": 612.328125,
+                "type": "panel",
+                "width": 931.984375
+              }
+            ],
+            "height": 922,
+            "type": "dock-v",
+            "width": 931.984375
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "cloud-function",
+        "inspector",
+        "hello-world",
+        "scene",
+        "console",
+        "timeline",
+        "game-window",
+        "ui-kit-preview",
+        "ui-kit-preview-extra"
+      ]
+    },
+    "window-1607167347340": {
+      "main": false,
+      "url": "unpack://static/window.html",
+      "windowType": "dockable",
+      "x": 443,
+      "y": 476,
+      "width": 416,
+      "height": 339,
+      "layout": {
+        "children": [
+          {
+            "active": 0,
+            "children": [
+              "custom_com"
+            ],
+            "height": 300,
+            "type": "panel",
+            "width": 400
+          }
+        ],
+        "type": "dock-v"
+      },
+      "panels": [
+        "custom_com"
+      ]
+    }
+  },
+  "panels": {
+    "hello-world": {
+      "x": 419,
+      "y": 226,
+      "width": 831,
+      "height": 460
+    },
+    "hello-world.page1": {
+      "x": 752,
+      "y": 340,
+      "width": 416,
+      "height": 339
+    },
+    "hello-world.page3": {
+      "x": 234,
+      "y": 353,
+      "width": 416,
+      "height": 339
+    },
+    "hello-world.page2": {
+      "x": 752,
+      "y": 340,
+      "width": 416,
+      "height": 339
+    },
+    "hello-world.page4": {
+      "x": 301,
+      "y": 464,
+      "width": 416,
+      "height": 339
+    },
+    "ui-kit-preview": {
+      "x": 552,
+      "y": 190,
+      "width": 816,
+      "height": 639
+    },
+    "preferences": {
+      "x": 672,
+      "y": 240,
+      "width": 600,
+      "height": 565
+    },
+    "store": {
+      "x": -8,
+      "y": -8,
+      "width": 1936,
+      "height": 1056
+    },
+    "node-library": {
+      "x": 418,
+      "y": 87,
+      "width": 316,
+      "height": 389
+    },
+    "my-test": {
+      "x": 328,
+      "y": 324,
+      "width": 475,
+      "height": 832
+    },
+    "test_test": {
+      "x": 926,
+      "y": 145,
+      "width": 678,
+      "height": 627
+    },
+    "ui-kit-preview-extra": {
+      "x": 552,
+      "y": 190,
+      "width": 816,
+      "height": 639
+    },
+    "custom_com": {
+      "x": 443,
+      "y": 476,
+      "width": 416,
+      "height": 339
+    }
+  },
+  "panelLabelWidth": {
+    "preferences": null,
+    "ui-kit-preview": null
+  }
+}

@@ -1,0 +1,3 @@
+prefabs#db://assets/prefabs/*
+prefabs1#db://assets/prefabs1/*
+prefabs2#db://assets/prefabs2/*

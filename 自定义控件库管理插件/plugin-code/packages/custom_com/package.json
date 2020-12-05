@@ -1,0 +1,20 @@
+{
+  "name": "custom_com",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Xie Xian",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/自定义控件管理": {
+      "message": "custom_com:open"
+    }
+  },
+  "scene-script": "scene-walker.js",
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "自定义控件库",
+    "width": 400,
+    "height": 300
+  }
+}

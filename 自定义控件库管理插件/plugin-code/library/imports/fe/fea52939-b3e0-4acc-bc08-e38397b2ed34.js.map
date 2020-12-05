@@ -1,0 +1,1 @@
+{"version":3,"sources":["packages\\hello-world\\plugin\\PluginModule.js"],"names":["module","exports","Msg"],"mappings":";;;;;;AAAAA,MAAM,CAACC,OAAP,GAAiB;AACbC,EAAAA,GAAG,EAAE;AADQ,CAAjB","sourceRoot":"/","sourcesContent":["module.exports = {\r\n    Msg: \"hello plugin\",\r\n\r\n}\r\n"]}

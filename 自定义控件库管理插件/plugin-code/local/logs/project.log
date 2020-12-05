@@ -1,0 +1,100 @@
+2020-12-05T11:19:59.813Z - normal: Load ~/.CocosCreator/settings.json
+2020-12-05T11:19:59.898Z - normal: Initializing Asset Database
+2020-12-05T11:19:59.906Z - normal: checking language setting...
+2020-12-05T11:19:59.907Z - normal: Language: zh
+2020-12-05T11:20:01.244Z - success: protocol editor-framework registered
+2020-12-05T11:20:01.244Z - success: protocol app registered
+2020-12-05T11:20:01.244Z - success: protocol theme registered
+2020-12-05T11:20:01.244Z - success: protocol packages registered
+2020-12-05T11:20:01.245Z - success: protocol uuid registerred
+2020-12-05T11:20:01.245Z - success: protocol db registerred
+2020-12-05T11:20:01.245Z - success: protocol thumbnail registerred
+2020-12-05T11:20:01.245Z - success: protocol unpack registerred
+2020-12-05T11:20:01.245Z - success: protocol disable-commonjs registerred
+2020-12-05T11:20:04.250Z - normal: failed to connect login server due to request timeout
+2020-12-05T11:20:04.251Z - normal: Check project F:\CosoCreator\cc-plugin-train\plugin-code
+2020-12-05T11:20:04.253Z - normal: Initializing project F:\CosoCreator\cc-plugin-train\plugin-code
+2020-12-05T11:20:04.668Z - success: adapters loaded
+2020-12-05T11:20:04.674Z - success: asset-db-debugger loaded
+2020-12-05T11:20:04.760Z - success: fb-audience-network loaded
+2020-12-05T11:20:04.809Z - success: fb-live-stream loaded
+2020-12-05T11:20:04.813Z - success: google-play-instant loaded
+2020-12-05T11:20:04.815Z - success: jsb-adapter loaded
+2020-12-05T11:20:04.822Z - success: package-manager loaded
+2020-12-05T11:20:04.824Z - success: runtime-adapters loaded
+2020-12-05T11:20:04.829Z - success: runtime-dev-tools loaded
+2020-12-05T11:20:04.833Z - success: ui-kit-preview-extra loaded
+2020-12-05T11:20:04.836Z - success: ui-kit-preview loaded
+2020-12-05T11:20:04.916Z - success: alipay-minigame loaded
+2020-12-05T11:20:04.990Z - success: assets loaded
+2020-12-05T11:20:04.994Z - success: baidugame-opendata loaded
+2020-12-05T11:20:04.997Z - success: baidugame loaded
+2020-12-05T11:20:05.000Z - success: builder loaded
+2020-12-05T11:20:05.003Z - success: bytedance-opendata loaded
+2020-12-05T11:20:05.006Z - success: bytedance loaded
+2020-12-05T11:20:05.009Z - success: channel-upload-tools loaded
+2020-12-05T11:20:05.014Z - success: cloud-function loaded
+2020-12-05T11:20:05.241Z - success: cocos-services loaded
+2020-12-05T11:20:05.245Z - success: console loaded
+2020-12-05T11:20:05.248Z - success: curve-editor loaded
+2020-12-05T11:20:05.258Z - success: fb-instant-games loaded
+2020-12-05T11:20:05.261Z - success: game-window loaded
+2020-12-05T11:20:05.262Z - success: google-instant-games loaded
+2020-12-05T11:20:05.266Z - success: hierarchy loaded
+2020-12-05T11:20:05.270Z - success: huawei-agc loaded
+2020-12-05T11:20:05.274Z - success: huawei-runtime loaded
+2020-12-05T11:20:05.277Z - success: inspector loaded
+2020-12-05T11:20:05.293Z - success: cpk-publish loaded
+2020-12-05T11:20:05.294Z - success: keystore loaded
+2020-12-05T11:20:05.311Z - success: link-sure-runtime loaded
+2020-12-05T11:20:05.329Z - success: node-library loaded
+2020-12-05T11:20:05.331Z - success: open-recent-items loaded
+2020-12-05T11:20:05.336Z - success: oppo-runtime loaded
+2020-12-05T11:20:05.339Z - success: package-asset loaded
+2020-12-05T11:20:05.340Z - success: preferences loaded
+2020-12-05T11:20:05.342Z - success: project-importer loaded
+2020-12-05T11:20:05.344Z - success: project-settings loaded
+2020-12-05T11:20:05.369Z - success: qtt-runtime loaded
+2020-12-05T11:20:05.374Z - success: scene loaded
+2020-12-05T11:20:05.376Z - success: simulator-debugger loaded
+2020-12-05T11:20:05.377Z - success: sprite-editor loaded
+2020-12-05T11:20:05.434Z - success: store loaded
+2020-12-05T11:20:05.438Z - success: timeline loaded
+2020-12-05T11:20:05.443Z - success: vivo-runtime loaded
+2020-12-05T11:20:05.446Z - success: wechatgame-opendata loaded
+2020-12-05T11:20:05.451Z - success: wechatgame loaded
+2020-12-05T11:20:05.456Z - success: xiaomi-runtime loaded
+2020-12-05T11:20:05.463Z - success: im-plugin loaded
+2020-12-05T11:20:05.466Z - success: custom_com loaded
+2020-12-05T11:20:05.471Z - success: preview server running at http://localhost:7456
+2020-12-05T11:20:05.473Z - success: hello-world loaded
+2020-12-05T11:20:05.475Z - success: my-test loaded
+2020-12-05T11:20:05.479Z - success: ui-node loaded
+2020-12-05T11:20:07.497Z - normal: Initializing Cocos2d
+2020-12-05T11:20:08.298Z - normal: Initializing engine extends
+2020-12-05T11:20:10.787Z - normal: Loading packages
+2020-12-05T11:20:10.799Z - normal: Watching packages
+2020-12-05T11:20:10.976Z - normal: Run Application
+2020-12-05T11:20:18.534Z - success: im-plugin unloaded
+2020-12-05T11:20:18.539Z - success: im-plugin loaded
+2020-12-05T11:20:22.375Z - info: Cocos Service load base data!
+2020-12-05T11:20:47.715Z - error: Error: ENOENT: no such file or directory, open
+    at Object.openSync (fs.js:453:3)
+    at Object.func [as openSync] (electron/js2c/asar.js:172:31)
+    at Object.readFileSync (fs.js:353:35)
+    at Object.fs.readFileSync (electron/js2c/asar.js:618:40)
+    at HTMLElement.readPaths (F:\CosoCreator\cc-plugin-train\plugin-code\packages\custom_com\panel\index.js:62:21)
+    at HTMLElement.updateView (F:\CosoCreator\cc-plugin-train\plugin-code\packages\custom_com\panel\index.js:36:21)
+    at HTMLElement.ready (F:\CosoCreator\cc-plugin-train\plugin-code\packages\custom_com\panel\index.js:27:10)
+    at C:\CocosDashboard_1.0.9\resources\.editors\Creator\2.4.1\resources\app.asar\editor-framework\lib\renderer\ui\utils\dock-utils.js:1:7083
+    at C:\CocosDashboard_1.0.9\resources\.editors\Creator\2.4.1\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:2082
+    at C:\CocosDashboard_1.0.9\resources\.editors\Creator\2.4.1\resources\app.asar\editor-framework\lib\renderer\ui\utils\dock-utils.js:1:7050
+    at C:\CocosDashboard_1.0.9\resources\.editors\Creator\2.4.1\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:2105
+2020-12-05T11:22:02.056Z - warn: Failed to send ipc message test_test:get-canvas-children to panel scene, message not found
+2020-12-05T11:22:30.757Z - normal: children length : 1
+2020-12-05T11:22:34.642Z - normal: children length : 1
+2020-12-05T11:23:30.630Z - success: custom_com unloaded
+2020-12-05T11:23:30.657Z - success: custom_com loaded
+2020-12-05T11:23:33.126Z - success: custom_com unloaded
+2020-12-05T11:23:33.133Z - success: custom_com loaded
+2020-12-05T11:24:10.533Z - info: shutdown preview server
