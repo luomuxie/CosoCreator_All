@@ -1,0 +1,12 @@
+<h2>hello-world</h2>
+<hr/>
+<div>State: {{msg}}</div>
+<hr/>
+<div class="layout vertical">
+    <ui-button id="btn" @confirm="onBtnClick">Send To Main</ui-button>
+    <ui-checkbox>plugins</ui-checkbox>
+    <ui-drop-area id="content" droppable="file">file</ui-drop-area>
+    <ui-button @confirm="layout">layout</ui-button>
+    <ui-button @confirm="sceneWalker">scene-walker</ui-button>
+    <div id="people" style="border: groove; padding-top:1px;width: 98%;height: 70%;overflow-y:auto;"></div>
+</div>
